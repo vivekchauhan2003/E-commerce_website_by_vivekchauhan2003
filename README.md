@@ -1,2 +1,2 @@
-# E-commerce_website_by_vivekchauhan
-This is a website which i made for my 3rd semester mini project / summer project for my college (AKTU) :)
+# E-commerce-website-by-viveko17935
+"🛒 Discover my e-commerce project: a one-stop shop for all your online shopping needs. Browse, cart 🛍️, and experience smooth shopping!"
